@@ -3,8 +3,8 @@ module.exports = {
   siteDescription:
     'Hamas Hassan is an incoming Software Developer, based in Pakistan, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Hamas Hassanb, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, react-native, react, cubix, fiverr, react, developer',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Hamas Hassan, software engineer, web developer, javascript, react-native, react, cubix, fiverr, react, developer',
+  siteUrl: 'https://hamashassan.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
