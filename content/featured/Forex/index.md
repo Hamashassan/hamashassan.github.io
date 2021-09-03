@@ -2,8 +2,8 @@
 date: '1'
 title: 'Forex Pro - 1000+ downloads'
 cover: 'swing.png'
-github: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
-external: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
+# github: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
+external: 'https://play.google.com/store/apps/details?id=com.swing_trading_signals'
 tech:
   - React Native
   - Firebase
